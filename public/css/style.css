@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@100;200;300;400;500;600;700&display=swap');
+
+* {
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: 'Anuphan', sans-serif;
+}
+
+body {
+    height: 100vh;
+    background-image: url("../img/butterfly.jpg");
+    background-size: cover;
+    background-position: center;
+}
